@@ -1,5 +1,5 @@
 // Section 8
-// The Assignment Operator
+// The assignment operator
 
 #include <iostream>
 
